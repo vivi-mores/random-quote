@@ -1,0 +1,1464 @@
+[
+  {
+    "phrase": "I hated every minute of training, but I said, 'Don’t quit. Suffer now and live the rest of your life as a champion.'",
+    "author": "Muhammad Ali"
+  },
+  {
+    "phrase": "There is no man living who isn’t capable of doing more than he thinks he can.",
+    "author": "Henry Ford"
+  },
+  {
+    "phrase": "The best way to predict the future is to create it.",
+    "author": "Dr. Forrest C. Shaklee"
+  },
+  {
+    "phrase": "It’s not about time, it’s about choices. How are you spending your choices?",
+    "author": "Beverly Adamo"
+  },
+  {
+    "phrase": "That’s the question everyone should be asking themselves, why not? – Why not you? Why not now?",
+    "author": "Timothy Ferriss"
+  },
+  {
+    "phrase": "The best way to find your customer is to be found by them.",
+    "author": "Conrado Adolpho"
+  },
+  {
+    "phrase": "Dreamers are the saviors of the world.",
+    "author": "James Allen"
+  },
+
+  {
+    "phrase": "The quality of a person’s life is in direct proportion to their commitment to excellence, regardless of their chosen field of endeavor.",
+    "author": "Vince Lombardi"
+  },
+  {
+    "phrase": "One man with courage makes a majority.",
+    "author": "Andrew Jackson"
+  },
+  {
+    "phrase": "Failure is simply the opportunity to begin again, this time more intelligently.",
+    "author": "Henry Ford"
+  },
+  {
+    "phrase": "Try not to become a man of success, but rather try to become a man of value.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "Glory is only given to those who have always dreamed of it.",
+    "author": "Charles De Gaulle"
+  },
+  {
+    "phrase": "The mind is its own place, and in itself can make a heaven of hell, a hell of heaven.",
+    "author": "John Milton"
+  },
+  {
+    "phrase": "The creation of a thousand forests is in one acorn.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "phrase": "The only free person is the one who is not afraid of being ridiculous.",
+    "author": "Luiz Fernando Veríssimo"
+  },
+  {
+    "phrase": "The best marketing doesn’t feel like marketing.",
+    "author": "Seth Godin"
+  },
+  {
+    "phrase": "Democracy is giving everyone the same starting point. As for the finish line, it’s up to each one.",
+    "author": "Fernando Sabino"
+  },
+  {
+    "phrase": "Don’t change for anyone, change for yourself. That is the essence of change. Change because we want to progress, not because we want to impress.",
+    "author": "Sergio Santana"
+  },
+  {
+    "phrase": "Have even nightmares if necessary. But dream.",
+    "author": "Patrícia Galvão"
+  },
+  {
+    "phrase": "The greatest enemy of a good plan is the dream of a perfect plan.",
+    "author": "Carl Von Clausewitz"
+  },
+  {
+    "phrase": "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.",
+    "author": "Charles Darwin"
+  },
+  {
+    "phrase": "If you are truly relevant to your audience, they will pay attention to you.",
+    "author": "Martha Gabriel"
+  },
+  {
+    "phrase": "My job is not to be easy on people. My job is to make them better.",
+    "author": "Steve Jobs"
+  },
+  {
+    "phrase": "Don’t build links, build relationships.",
+    "author": "Rand Fishkin"
+  },
+  {
+    "phrase": "The cost of being wrong is less than the cost of doing nothing.",
+    "author": "Seth Godin"
+  },
+  {
+    "phrase": "If you think education is expensive, try ignorance.",
+    "author": "Derek Bok"
+  },
+  {
+    "phrase": "Don’t wait for ideal conditions. They will never come.",
+    "author": "Janet Erskine Stuart"
+  },
+  {
+    "phrase": "You don’t build it for yourself. You find out what the people want and you build it for them.",
+    "author": "Walt Disney"
+  },
+  {
+    "phrase": "It’s easy to make a buck. It’s a lot tougher to make a difference.",
+    "author": "Tom Brokaw"
+  },
+  {
+    "phrase": "Deciding what not to do is as important as deciding what to do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "phrase": "Quality should be like reason, something humans have by nature and irrational animals do not.",
+    "author": "Mario Persona"
+  },
+  {
+    "phrase": "Focus on what you’re moving toward, not what you’re leaving behind.",
+    "author": "Alan Cohen"
+  },
+  {
+    "phrase": "The harder it gets, the closer you are to success.",
+    "author": "Chris Garrett"
+  },
+  {
+    "phrase": "Create something people want to share.",
+    "author": "John Jantsch"
+  },
+  {
+    "phrase": "If you want to understand how a lion roars, don’t go to the zoo. Go to the jungle.",
+    "author": "Jim Stengel"
+  },
+  {
+    "phrase": "Entrepreneurs are those who understand that there is little difference between obstacles and opportunities and are able to turn both to their advantage.",
+    "author": "Niccolò Machiavelli"
+  },
+  {
+    "phrase": "Let’s invent tomorrow instead of worrying about yesterday.",
+    "author": "Steve Jobs"
+  },
+  {
+    "phrase": "Two men look out through the same bars; one sees the mud and the other sees the stars.",
+    "author": "Frederich Langbridge"
+  },
+  {
+    "phrase": "There is the risk you cannot afford to take, and there is the risk you cannot afford not to take.",
+    "author": "Peter Drucker"
+  },
+  {
+    "phrase": "Miracles sometimes happen, but you have to work terribly hard for them.",
+    "author": "Peter Drucker"
+  },
+  {
+    "phrase": "We do not dare to undertake many things because they seem difficult; however, they are difficult because we do not dare to undertake them.",
+    "author": "Seneca"
+  },
+  {
+    "phrase": "There is nothing so useless as doing efficiently that which should not be done at all.",
+    "author": "Peter Drucker"
+  },
+
+  {
+    "phrase": "The secret of entrepreneurship is having 100% conviction with only 80% of the answer.",
+    "author": "Aaron Levie"
+  },
+  {
+    "phrase": "The essential question is not 'how busy are you?' but 'what are you busy with?'",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "phrase": "I tell every young person who wants to be an entrepreneur that they need to surpass themselves.",
+    "author": "Eike Batista"
+  },
+  {
+    "phrase": "Difficulties and obstacles are raw materials for the true entrepreneur.",
+    "author": "Carlos Hilsdorf"
+  },
+  {
+    "phrase": "In business, opportunities are like buses; there’s always another one coming.",
+    "author": "Richard Branson"
+  },
+  {
+    "phrase": "People often say that motivation doesn’t last. Well, neither does bathing—that’s why we recommend it daily.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "phrase": "Improvement usually means doing something you’ve never done before.",
+    "author": "Shigeo Shingo"
+  },
+  {
+    "phrase": "A leader is not someone who has been given a crown, but someone who has been given the responsibility to bring out the best in others.",
+    "author": "Jack Welch"
+  },
+  {
+    "phrase": "Every human action, whether it be positive or negative, needs to be motivated.",
+    "author": "Dalai Lama"
+  },
+  {
+    "phrase": "Companies pay a lot of attention to the cost of doing something. They should worry more about the costs of doing nothing.",
+    "author": "Philip Kotler"
+  },
+  {
+    "phrase": "A rude word, a bizarre expression, has sometimes taught me more than ten beautiful phrases.",
+    "author": "Denis Diderot"
+  },
+  {
+    "phrase": "There is only one boss—the customer. And he can fire everyone in the company, from the president down, simply by spending his money elsewhere.",
+    "author": "Sam Walton"
+  },
+  {
+    "phrase": "Results are obtained by exploiting opportunities, not by solving problems.",
+    "author": "Peter Drucker"
+  },
+  {
+    "phrase": "The only thing separating you from your success are the excuses you make for not doing things.",
+    "author": "Guilherme Machado"
+  },
+  {
+    "phrase": "The best way to learn anything is by doing.",
+    "author": "Richard Branson"
+  },
+  {
+    "phrase": "Marketing is too important to be left to the marketing department.",
+    "author": "David Packard"
+  },
+  {
+    "phrase": "Profit is a byproduct of things done well.",
+    "author": "Philip Kotler"
+  },
+  {
+    "phrase": "Is your mind fertile? Do you just talk nonsense? Plant the nonsense and go sell it.",
+    "author": "Lucas Barbosa"
+  },
+  {
+    "phrase": "Whether you think you can or you can’t, you’re right.",
+    "author": "Henry Ford"
+  },
+  {
+    "phrase": "Believe you can and you’re halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "phrase": "Wanting to do everything for everyone is the first step toward doing nothing for anyone.",
+    "author": "Marketing Law"
+  },
+  {
+    "phrase": "Great entrepreneurs are comfortable being uncomfortable.",
+    "author": "Steve Blank"
+  },
+  {
+    "phrase": "Want to achieve something? Get calluses on your hands and scrape your knees.",
+    "author": "Cris Westphal"
+  },
+  {
+    "phrase": "If you set your goals absurdly high and you fail, your failure will be a lot better than the success of others.",
+    "author": "James Cameron"
+  },
+  {
+    "phrase": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "phrase": "Logic will get you from A to B. Imagination will take you everywhere.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "The successful warrior is the average man, with laser-like focus.",
+    "author": "Bruce Lee"
+  },
+  {
+    "phrase": "To achieve success, you need to accept all challenges that come your way. You can't just accept the ones you like.",
+    "author": "Mike Gafka"
+  },
+  {
+    "phrase": "Be happy to act. Leave the talking to others.",
+    "author": "Baltasar Gracián"
+  },
+  {
+    "phrase": "What can be measured can be improved.",
+    "author": "Peter Drucker"
+  },
+  {
+    "phrase": "Keep in mind that your desire to achieve success is more important than anything else.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "phrase": "You can be discouraged by failure or you can learn from it, so go ahead and make mistakes. Make as many as you can. Because that's where you'll find success.",
+    "author": "Thomas J. Watson"
+  },
+  {
+    "phrase": "The greater the artist, the greater the doubt. Perfect confidence is granted to the less talented as a consolation prize.",
+    "author": "Robert Hughes"
+  },
+  {
+    "phrase": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+    "author": "Edison"
+  },
+  {
+    "phrase": "I attribute my success to my habit of asking loudly for advice and then doing the opposite.",
+    "author": "G. K. Chesterton"
+  },
+  {
+    "phrase": "You have to fight more than one battle to be a winner.",
+    "author": "Margaret Thatcher"
+  },
+  {
+    "phrase": "If you don’t have a plan for yourself, it’s likely you’ll fall into someone else’s plan. And guess what they have planned for you? Not much.",
+    "author": "Rohn"
+  },
+  {
+    "phrase": "Our greatest fear should not be of failure, but of succeeding at something that doesn’t matter.",
+    "author": "Francis Chan"
+  },
+  {
+    "phrase": "Motivation is what gets you started. Habit is what keeps you going.",
+    "author": "Jim Rohn"
+  },
+  {
+    "phrase": "Success is not about never making mistakes, but about not repeating the same ones more than once.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "phrase": "The number one reason people fail is because they listen to their friends, family, and neighbors.",
+    "author": "Hill"
+  },
+  {
+    "phrase": "Successful people do what unsuccessful people are not willing to do. Don’t wish it were easier. Wish you were better.",
+    "author": "Rohn"
+  },
+  {
+    "phrase": "If you want permanent change, stop focusing on the size of your problems and start focusing on your size!",
+    "author": "T. Harv Eker"
+  },
+  {
+    "phrase": "If you really want something, don’t wait for it—teach yourself to be impatient.",
+    "author": "Gurbaksh Chahal"
+  },
+  {
+    "phrase": "Keep moving forward. There will be a chance you will be stopped by an obstacle, maybe something you didn’t expect. But I’ve never heard of anyone being stopped while they were standing still.",
+    "author": "Charles F. Kettering"
+  },
+  {
+    "phrase": "Whenever you find yourself on the side of the majority, it’s time to pause and reflect.",
+    "author": "Twain"
+  },
+  {
+    "phrase": "The first step toward success is taken when you refuse to be a captive of your environment.",
+    "author": "Mark Caine"
+  },
+  {
+    "phrase": "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.",
+    "author": "Twain"
+  },
+  {
+    "phrase": "I have found that if you have a will to live and curiosity, sleeping is not the most important thing.",
+    "author": "Martha Stewart"
+  },
+  {
+    "phrase": "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
+    "author": "Carl Bard"
+  },
+  {
+    "phrase": "I don’t know the key to success, but the key to failure is trying to please everyone.",
+    "author": "Bill Cosby"
+  },
+  {
+    "phrase": "The only place where success comes before work is in the dictionary.",
+    "author": "Vidal Sassoon"
+  },
+  {
+    "phrase": "Just avoid doing something today if you want to die and leave things unfinished.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "phrase": "Courage is resistance to fear, mastery of fear, not absence of fear.",
+    "author": "Mark Twain"
+  },
+  {
+    "phrase": "All progress takes place outside the comfort zone.",
+    "author": "Michael John Bobak"
+  },
+  {
+    "phrase": "Success is the sum of small efforts, repeated day in and day out.",
+    "author": "Robert Collier"
+  },
+  {
+    "phrase": "The starting point of all achievement is desire.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "phrase": "I find that the harder I work, the more luck I seem to have.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "phrase": "People ask me what my favorite role is. I always say: the next one.",
+    "author": "Kevin Kline"
+  },
+  {
+    "phrase": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe"
+  },
+  {
+    "phrase": "There are two types of people who will tell you that you cannot make a difference in this world: those who are afraid to try and those who are afraid that you will succeed.",
+    "author": "Ray Goforth"
+  },
+  {
+    "phrase": "If you can't explain it simply, you don't understand it well enough.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "Happiness is like a butterfly; the more you chase it, the more it will elude you. But if you will stop and let it come to you, it will stay with you for a while.",
+    "author": "Nathaniel Hawthorne"
+  },
+  {
+    "phrase": "Don’t be afraid to give up the good to go for the great.",
+    "author": "John D. Rockefeller"
+  },
+  {
+    "phrase": "The distance between insanity and genius is measured only by success.",
+    "author": "Bruce Feirstein"
+  },
+  {
+    "phrase": "What seems to us as bitter trials are often blessings in disguise.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "phrase": "If you're going through hell, keep going.",
+    "author": "Churchill"
+  },
+  {
+    "phrase": "The secret of a good life is to find out what is your destiny and to realize it.",
+    "author": "Henry Ford"
+  },
+  {
+    "phrase": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "phrase": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.",
+    "author": "David Brinkley"
+  },
+  {
+    "phrase": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas Edison"
+  },
+  {
+    "phrase": "The best revenge is massive success.",
+    "author": "Frank Sinatra"
+  },
+  {
+    "phrase": "Opportunities don't happen. You create them.",
+    "author": "Chris Grosser"
+  },
+  {
+    "phrase": "The definition of success varies from person to person. For me, success is inner peace.",
+    "author": "Denzel Washington"
+  },
+  {
+    "phrase": "Whenever you see a successful person, you only see the public glories, never the private sacrifices to reach them.",
+    "author": "Vaibhav Shah"
+  },
+  {
+    "phrase": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill"
+  },
+  {
+    "phrase": "All your dreams can come true if you have the courage to pursue them.",
+    "author": "Walt Disney"
+  },
+  {
+    "phrase": "Stop chasing the money and start chasing the success.",
+    "author": "Tony Hsieh"
+  },
+  {
+    "phrase": "Choose a job you love, and you will never have to work a day in your life.",
+    "author": "Confucius"
+  },
+  {
+    "phrase": "If you are not willing to risk the usual, you will have to settle for the ordinary.",
+    "author": "Jim Rohn"
+  },
+  {
+    "phrase": "Entrepreneurs fail on average 3.8 times before final success. What separates the successful from the unsuccessful is persistence.",
+    "author": "Lisa M. Amos"
+  },
+  {
+    "phrase": "Life is better for those who make the best of what they have.",
+    "author": "John Wooden"
+  },
+  {
+    "phrase": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "phrase": "Nothing is impossible, the very word says 'I'm possible'.",
+    "author": "Audrey Hepburn"
+  },
+  {
+    "phrase": "Write something worth reading or do something worth writing.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "phrase": "Change your thoughts and you change your world.",
+    "author": "Norman Vincent Peale"
+  },
+  {
+    "phrase": "In the end, it's not the years in your life that count. It's the life in your years.",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "phrase": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+    "author": "Henry Ford"
+  },
+  {
+    "phrase": "The question isn’t who is going to let me; it’s who is going to stop me.",
+    "author": "Ayn Rand"
+  },
+  {
+    "phrase": "Life is what we make it, always has been, always will be.",
+    "author": "Moses"
+  },
+  {
+    "phrase": "You may be disappointed if you fail, but you are doomed if you don’t try.",
+    "author": "Beverly Sills"
+  },
+  {
+    "phrase": "It’s your place in the world; it’s your life. Go on and do what you can with it, and make it the life you want to live.",
+    "author": "Mae Jemison"
+  },
+  {
+    "phrase": "To dream, after all, is a form of planning.",
+    "author": "Gloria Steinem"
+  },
+  {
+    "phrase": "Our lives begin to end the day we become silent about things that matter.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "phrase": "Dream big and dare to fail.",
+    "author": "Norman Vaughan"
+  },
+  {
+    "phrase": "You can't use up creativity. The more you use, the more you have.",
+    "author": "Maya Angelou"
+  },
+  {
+    "phrase": "I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance.",
+    "author": "Steve Jobs"
+  },
+  {
+    "phrase": "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "phrase": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius"
+  },
+  {
+    "phrase": "I have learned over the years that when one's mind is made up, this diminishes fear.",
+    "author": "Rosa Parks"
+  },
+  {
+    "phrase": "Education costs money. But then so does ignorance.",
+    "author": "Sir Claus Moser"
+  },
+  {
+    "phrase": "The battles that count aren’t the ones for gold medals. The struggles within yourself—the invisible battles inside all of us—that’s where it’s at.",
+    "author": "Jesse Owens"
+  },
+  {
+    "phrase": "Build your own dreams, or someone else will hire you to build theirs.",
+    "author": "Farrah Gray"
+  },
+  {
+    "phrase": "If you want your children to turn out well, spend twice as much time with them, and half as much money.",
+    "author": "Abigail Van Buren"
+  },
+  {
+    "phrase": "It's not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings.",
+    "author": "Ann Landers"
+  },
+  {
+    "phrase": "It’s never too late to be what you might have been.",
+    "author": "George Eliot"
+  },
+  {
+    "phrase": "There are no traffic jams along the extra mile.",
+    "author": "Roger Staubach"
+  },
+  {
+    "phrase": "The person who says it cannot be done should not interrupt the person who is doing it.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "phrase": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "To succeed, your desire for success should be greater than your fear of failure.",
+    "author": "Bill Cosby"
+  },
+  {
+    "phrase": "You take your life in your own hands and what happens? A terrible thing, no one to blame.",
+    "author": "Erica Jong"
+  },
+  {
+    "phrase": "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.",
+    "author": "Jamie Paolinetti"
+  },
+  {
+    "phrase": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+    "author": "Leonardo Da Vinci"
+  },
+  {
+    "phrase": "If you want to lift yourself up, lift someone else up.",
+    "author": "Booker T. Washington"
+  },
+  {
+    "phrase": "Challenges are what make life interesting, and overcoming them is what makes life meaningful.",
+    "author": "Joshua J. Marine"
+  },
+  {
+    "phrase": "For true success, ask yourself four questions: Why? Why not? Why not me? Why not now?",
+    "author": "James Allen"
+  },
+  {
+    "phrase": "Many of us are not living our dreams because we are living our fears.",
+    "author": "Les Brown"
+  },
+  {
+    "phrase": "I am as proud of the things we don’t do as I am of the things we do. Innovating is saying no to thousands of things.",
+    "author": "Steve Jobs"
+  },
+  {
+    "phrase": "We must believe we are gifted for something, and that this thing, at whatever cost, must be attained.",
+    "author": "Marie Curie"
+  },
+  {
+    "phrase": "If the winds do not serve, take to the oars.",
+    "author": "American Proverb"
+  },
+  {
+    "phrase": "First, have a definite, practical ideal; a goal, an objective. Second, you must have the means to achieve your ends; wisdom, money, materials, and methods. Third, adjust all your means to that end.",
+    "author": "Aristotle"
+  },
+  {
+    "phrase": "Happiness is not something ready-made. It comes from your own actions.",
+    "author": "Dalai Lama"
+  },
+  {
+    "phrase": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+    "author": "Maya Angelou"
+  },
+  {
+    "phrase": "When I cease to be, I shall become what I might have been.",
+    "author": "Lao Tzu"
+  },
+  {
+    "phrase": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+    "author": "Anne Frank"
+  },
+  {
+    "phrase": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius"
+  },
+  {
+    "phrase": "Being the richest man in the cemetery doesn’t matter to me… Going to bed at night saying we’ve done something wonderful, that’s what matters to me.",
+    "author": "Steve Jobs"
+  },
+  {
+    "phrase": "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
+    "author": "Helen Keller"
+  },
+  {
+    "phrase": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb"
+  },
+  {
+    "phrase": "We can easily forgive a child who is afraid of the dark; the tragedy of life is when men are afraid of the light.",
+    "author": "Plato"
+  },
+  {
+    "phrase": "Everything you’ve ever wanted is on the other side of fear.",
+    "author": "George Addair"
+  },
+  {
+    "phrase": "Certain things capture your eye, but only pursue those that capture your heart.",
+    "author": "Indian Proverb"
+  },
+  {
+    "phrase": "Few things can help an individual more than putting responsibility on him, and letting him know that you trust him.",
+    "author": "Booker T. Washington"
+  },
+  {
+    "phrase": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "phrase": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "phrase": "There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
+    "author": "Aristotle"
+  },
+  {
+    "phrase": "If you hear a voice within you saying 'you can't,' then by all means do it, and that voice will be silenced.",
+    "author": "Vincent Van Gogh"
+  },
+  {
+    "phrase": "Life shrinks or expands in proportion to one’s courage.",
+    "author": "Anaïs Nin"
+  },
+  {
+    "phrase": "Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it.",
+    "author": "Johann Wolfgang von Goethe"
+  },
+  {
+    "phrase": "The two most important days in your life are the day you are born and the day you find out why.",
+    "author": "Mark Twain"
+  },
+  {
+    "phrase": "Either you run the day, or the day runs you.",
+    "author": "Jim Rohn"
+  },
+  {
+    "phrase": "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "author": "Maya Angelou"
+  },
+  {
+    "phrase": "You can never cross the ocean until you have the courage to lose sight of the shore.",
+    "author": "Christopher Columbus"
+  },
+  {
+    "phrase": "Every child is an artist. The problem is how to remain an artist once we grow up.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "phrase": "I am not a product of my circumstances. I am a product of my decisions.",
+    "author": "Stephen Covey"
+  },
+  {
+    "phrase": "Winning is not everything, but wanting to win is.",
+    "author": "Vince Lombardi"
+  },
+  {
+    "phrase": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs"
+  },
+  {
+    "phrase": "Only 80% of success is showing up.",
+    "author": "Woody Allen"
+  },
+  {
+    "phrase": "The unexamined life is not worth living.",
+    "author": "Socrates"
+  },
+  {
+    "phrase": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "phrase": "The mind is everything. What you think you become.",
+    "author": "Buddha"
+  },
+  {
+    "phrase": "The most common way people give up their power is by thinking they don’t have any.",
+    "author": "Alice Walker"
+  },
+  {
+    "phrase": "Life is 10% what happens to me and 90% how I react to it.",
+    "author": "Charles Swindoll"
+  },
+  {
+    "phrase": "Explore, dream, discover.",
+    "author": "Mark Twain"
+  },
+  {
+    "phrase": "Life is what happens to you while you’re busy making other plans.",
+    "author": "John Lennon"
+  },
+  {
+    "phrase": "Life is not about having, it's about giving and being.",
+    "author": "Kevin Kruse"
+  },
+  {
+    "phrase": "Defining a goal is the starting point of all achievement.",
+    "author": "W. Clement Stone"
+  },
+  {
+    "phrase": "The hardest thing is the decision to act, the rest is merely tenacity.",
+    "author": "Amelia Earhart"
+  },
+  {
+    "phrase": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky"
+  },
+  {
+    "phrase": "I attribute my success to this: I never gave or took any excuse.",
+    "author": "Florence Nightingale"
+  },
+  {
+    "phrase": "Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.",
+    "author": "Robert Frost"
+  },
+  {
+    "phrase": "What your mind can conceive and believe, it can achieve.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "phrase": "Life is about creating an impact, not an income.",
+    "author": "Kevin Kruse"
+  },
+  {
+    "phrase": "Be a measure of quality. Some people aren't used to an environment where excellence is expected.",
+    "author": "Steve Jobs"
+  },
+  {
+    "phrase": "Whatever you do, be different. If you’re different, you will stand out.",
+    "author": "Anita Roddick"
+  },
+  {
+    "phrase": "Every person forges their own destiny.",
+    "author": "Carlos Slim Helu"
+  },
+  {
+    "phrase": "It is very common for people to be working hard on the wrong thing. Working on the right thing is probably more important than working hard.",
+    "author": "Caterina Fake"
+  },
+  {
+    "phrase": "The harder I work, the luckier I become. When you feel the urge, play with it.",
+    "author": "Donald Trump"
+  },
+  {
+    "phrase": "Don’t believe that the only way for your business to succeed is through perfection. Don’t seek perfection. Seek success.",
+    "author": "Eike Batista"
+  },
+  {
+    "phrase": "Failing is not the result; failing is not trying. Don’t be afraid to fail.",
+    "author": "Sara Blankey"
+  },
+  {
+    "phrase": "You don’t learn to walk by following rules. You learn by doing and falling.",
+    "author": "Richard Branson"
+  },
+  {
+    "phrase": "You can sit and analyze things forever, but while you are doing that, competitors will have moved on.",
+    "author": "Peter Vesterbacka"
+  },
+  {
+    "phrase": "Many people want to ride with you in the limousine, but what you want is someone who will take the bus with you when the limousine breaks down.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "phrase": "To be successful you only need a framework and a dream.",
+    "author": "Michael Dell"
+  },
+  {
+    "phrase": "When you realize that you have identified a passion, invest in yourself, discover what you need to know, what kind of experience and knowledge you need to develop to do the things you feel.",
+    "author": "Martha Stewart"
+  },
+  {
+    "phrase": "The biggest risk is not taking risks... in a world that is really fast-changing, the only strategy guaranteed to fail is not taking risks.",
+    "author": "Mark Zuckerberg"
+  },
+  {
+    "phrase": "It’s not about the money. It’s about the willingness to work harder and learn more than anyone else when it comes to your business. And if that fails, you learn from the failure and do better next time.",
+    "author": "Mark Cuban"
+  },
+  {
+    "phrase": "I think many leaders of large companies don’t believe change is possible. But if you look at history, things change and if your business is static, you will definitely have problems.",
+    "author": "Larry Page"
+  },
+  {
+    "phrase": "I had all the disadvantages necessary for success.",
+    "author": "Larry Ellison"
+  },
+  {
+    "phrase": "A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.",
+    "author": "Jeff Bezos"
+  },
+  {
+    "phrase": "Everyone has an idea. But it’s really about executing the idea and attracting other people to help you work on the idea.",
+    "author": "Jack Dorsey"
+  },
+  {
+    "phrase": "Look at yourself in the mirror and ask yourself what do I want to do every day for the rest of my life… and do it.",
+    "author": "Gary Vaynerchuk"
+  },
+  {
+    "phrase": "Constantly ask yourself how you can do things better and keep questioning yourself.",
+    "author": "Elon Musk"
+  },
+  {
+    "phrase": "Great leaders are like the best conductors - they reach beyond the notes to reach the magic of the musicians.",
+    "author": "Blaine Lee"
+  },
+  {
+    "phrase": "In fact, we gradually discover that others are our mirrors and reflect back to us the light, actions, and feelings that we pass on to them.",
+    "author": "Flavio Souza"
+  },
+  {
+    "phrase": "The most incomprehensible thing about the world is that it is comprehensible.",
+    "author": "Albert Einstein"
+  },
+  {
+    "phrase": "Leadership is a powerful combination of strategy and character. But if you have to pass on one, let it be strategy.",
+    "author": "Norman Schwarzkopf"
+  },
+  {
+    "phrase": "Talent wins games, but teamwork and intelligence win championships.",
+    "author": "Michael Jordan"
+  },
+  {
+    "phrase": "Great achievements are not born of impulse, but by a succession of small achievements.",
+    "author": "Vincent Van Gogh"
+  },
+  {
+    "phrase": "It’s easy to dictate rules. It’s difficult to follow them. Having the exact notion of our own lives, instead of having a notion of other people’s lives.",
+    "author": "Carlos Drummond de Andrade"
+  },
+  {
+    "phrase": "It is never so easy to get lost as when you think you know the way.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "phrase": "Hope is not a dream, but a way of translating dreams into reality.",
+    "author": "Cardinal Suenens"
+  },
+  {
+    "phrase": "We make our fortunes and call them fate.",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "phrase": "Intention without action is illusion. Dare to do and power will be given to you.",
+    "author": "Lair Ribeiro"
+  },
+  {
+    "phrase": "Motivating is creating interest in the subject and will; this enthusiasm and self-help will help us progress in knowledge and in professional tasks.",
+    "author": "Daniel Godri"
+  },
+  {
+    "phrase": "Victory belongs to the most persevering.",
+    "author": "Napoleon Bonaparte"
+  },
+  {
+    "phrase": "Try everything once... and what you like the most, do it two or three times.",
+    "author": "Tom Wilson"
+  },
+  {
+    "phrase": "Joy is found in struggle, in effort, in suffering involved. Not in the victory itself.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "phrase": "If you want to be happy tomorrow, try today.",
+    "author": "Liang Tzu"
+  },
+  {
+    "phrase": "People who reach their potential think about improvement.",
+    "author": "John Maxwell"
+  },
+  {
+    "phrase": "One should use the opponent's strength to our advantage.",
+    "author": "Sun Tzu"
+  },
+  {
+    "phrase": "Overcoming the easy has no merit; it is an obligation; winning the difficult is glorious; surpassing what was once impossible is splendid.",
+    "author": "Alexandre Fonteles"
+  },
+  {
+    "phrase": "Get up! Have courage and get to work! Use everything you have to gain understanding.",
+    "author": "Esdras"
+  },
+  {
+    "phrase": "It is impossible to assess the strength we possess without measuring the size of the obstacle we can overcome, nor the value of an action without knowing the sacrifice it entails.",
+    "author": "H. W. Beecher"
+  },
+  {
+    "phrase": "Luck is what happens when preparation meets opportunity.",
+    "author": "Elmer Letterman"
+  },
+  {
+    "phrase": "If it weren't for the last minute, a lot would never get done.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "phrase": "A long journey begins with a single step.",
+    "author": "Lao Tzu"
+  },
+  {
+    "phrase": "Trying and failing is, at least, learning. Not trying is suffering the inestimable loss of what could have been.",
+    "author": "Albino Teixeira"
+  },
+  {
+    "phrase": "Turtles know the roads better than rabbits.",
+    "author": "Kahlil Gibran"
+  },
+  {
+    "phrase": "I found that I always have choices. And often, it’s just a choice of attitude.",
+    "author": "Judith M. Knowlton"
+  },
+  {
+    "phrase": "Winning is having a deep sense of faith, strength, and perseverance even in difficult times.",
+    "author": "Flavio Souza"
+  },
+  {
+    "phrase": "Success is the sum of small efforts - repeated day in and day out.",
+    "author": "Robert Collier"
+  },
+  {
+    "phrase": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
+    "author": "Newt Gingrich"
+  },
+  {
+    "phrase": "Live each day as if life is just beginning.",
+    "author": "Johann Goethe"
+  },
+  {
+    "phrase": "The brilliant executive coach is the one who brings out the brilliance of the client.",
+    "author": "Nancy Klinek"
+  },
+  {
+    "phrase": "None of us is as smart as all of us together.",
+    "author": "Warren Bennis"
+  },
+  {
+    "phrase": "What unites a team is when one covers the weaknesses of the other.",
+    "author": "Phil Jackson"
+  },
+  {
+    "phrase": "We must all be consistent with our own discourse.",
+    "author": "Jack Welch"
+  },
+  {
+    "phrase": "Coming together is a beginning; keeping together is progress; working together is success.",
+    "author": "Henry Ford"
+  },
+  {
+    "phrase": "It’s not what we offer, but the way we offer it that determines the value of the gift.",
+    "author": "Jack Welch"
+  },
+  {
+    "phrase": "The distance between dreams and reality is called discipline.",
+    "author": "Bernardinho"
+  },
+  {
+    "phrase": "Teamwork is a constant juggling act between self-interest and the interest of the group.",
+    "author": "Susan Campbell"
+  },
+  {
+    "phrase": "Leaders lead more by example than by power.",
+    "author": "Tacitus"
+  },
+  {
+    "phrase": "The most successful leader is the one who has a vision of what has yet to be accomplished.",
+    "author": "Mary Parker Follett"
+  },
+  {
+    "phrase": "No one will care about your failures, nor should you.",
+    "author": "Mark Cuban"
+  },
+  {
+    "phrase": "Don’t worry about funding if you don’t need it. Today, it’s cheaper to start a business than it has ever been.",
+    "author": "Noah Everett"
+  },
+  {
+    "phrase": "The function of leadership is to produce more leaders, not more followers.",
+    "author": "Ralph Nader"
+  },
+  {
+    "phrase": "The most valuable thing you can do is make a mistake; you learn nothing being perfect.",
+    "author": "Adam Osborne"
+  },
+  {
+    "phrase": "Since you’re going to think anyway, think big.",
+    "author": "Donald Trump"
+  },
+  {
+    "phrase": "It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you’ll do things differently.",
+    "author": "Warren Buffett"
+  },
+  {
+    "phrase": "The way to get started is to stop talking and begin doing.",
+    "author": "Walt Disney"
+  },
+  {
+    "phrase": "The secret to successful hiring is this: look for people who want to change the world.",
+    "author": "Marc Benioff"
+  },
+  {
+    "phrase": "There are many bad reasons to start a company. But there is only one good, legitimate reason, and I think you know what it is: to change the world.",
+    "author": "Phil Libin"
+  },
+  {
+    "phrase": "An entrepreneur is someone who jumps off a cliff and builds a plane on the way down.",
+    "author": "Reid Hoffman"
+  },
+  {
+    "phrase": "If our motivation were money, we would have sold the company a long time ago and would be on a beach.",
+    "author": "Larry Page"
+  },
+  {
+    "phrase": "I have failed over and over and over again in my life, and that is why I have succeeded.",
+    "author": "Michael Jordan"
+  },
+  {
+    "phrase": "It’s not about ideas. It’s about making ideas happen.",
+    "author": "Scott Belsky"
+  },
+  {
+    "phrase": "Your most unhappy customers are your greatest source of learning.",
+    "author": "Bill Gates"
+  },
+  {
+    "phrase": "You don’t learn to walk by following rules. You learn by trying and falling.",
+    "author": "Richard Branson"
+  },
+  {
+    "phrase": "Resources must be allocated to opportunities, not to problems.",
+    "author": "Peter Drucker"
+  },
+  {
+    "phrase": "He who has no goal rarely takes pleasure in any endeavor.",
+    "author": "Giacomo Leopardi"
+  },
+  {
+    "phrase": "Sometimes to teach something good, one must be a little rude.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "phrase": "If we are a fish bigger than the tank we were raised in, instead of adapting to it, we should seek the ocean.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "phrase": "All things are difficult before they become easy.",
+    "author": "John Norley"
+  },
+  {
+    "phrase": "When someone has the strength to conquer themselves, they are born for great endeavors.",
+    "author": "Henri Lacordaire"
+  },
+  {
+    "phrase": "He who undertakes nothing will finish nothing.",
+    "author": "Chancer"
+  },
+  {
+    "phrase": "No one ever sank under their own sweat.",
+    "author": "Ann Landers"
+  },
+  {
+    "phrase": "If you want the hits, be prepared for the misses.",
+    "author": "Carl Yastrzemski"
+  },
+  {
+    "phrase": "In the business world, everyone is paid in two currencies: money and experience. Grab the experience first; the money will come later.",
+    "author": "Harold Geneev"
+  },
+  {
+    "phrase": "Pain is a warning, just like small losses in business teach us to be cautious.",
+    "author": "Henry Ford"
+  },
+  {
+    "phrase": "Prosperous days do not come by chance; they are born from a lot of hard work and persistence.",
+    "author": "Henry Ford"
+  },
+  {
+    "phrase": "Wanting to win means you've already traveled half the road to victory.",
+    "author": "Paderewski"
+  },
+  {
+    "phrase": "You will be successful... even if others do not believe. You just need to have confidence in yourself.",
+    "author": "O. S. Marden"
+  },
+  {
+    "phrase": "Success is a symbol of self-confidence.",
+    "author": "Frank S. Cáprio"
+  },
+  {
+    "phrase": "It doesn’t matter how many steps you’ve taken back; what matters is how many steps you will take forward.",
+    "author": "Décio Melhem"
+  },
+  {
+    "phrase": "Success is achieved with determination, confidence, persistence; and not with discouragement, indecision, or complaints.",
+    "author": "Paderewski"
+  },
+  {
+    "phrase": "Those who wish to win at the cost of recommendations or connections suffer cruel disappointments.",
+    "author": "Dinamor"
+  },
+  {
+    "phrase": "Great men did not reach the peak of success in one leap; rather, they worked while others slept.",
+    "author": "James Allen"
+  },
+  {
+    "phrase": "Small opportunities may be the beginning of great opportunities.",
+    "author": "Demosthenes"
+  },
+  {
+    "phrase": "People would do more if they didn’t consider so many things impossible.",
+    "author": "Malesherbes"
+  },
+  {
+    "phrase": "Ask not what your country can do for you; ask what you can do for your country.",
+    "author": "John F. Kennedy"
+  },
+  {
+    "phrase": "Work is the great liberator of man; only idleness enslaves him.",
+    "author": "Fernandes Soares"
+  },
+  {
+    "phrase": "In Japanese, there is no expression for 'GOOD LUCK.' The closest is 'STRIVE.'",
+    "author": "Fábio Neves"
+  },
+  {
+    "phrase": "Fifteen years ago, companies competed on price. Today it’s quality. Tomorrow it will be design.",
+    "author": "Robert Hayes"
+  },
+  {
+    "phrase": "To be victorious, you need to see what is not visible.",
+    "author": "Sun Tzu"
+  },
+  {
+    "phrase": "A professional is someone who does their best work when they least feel like doing it.",
+    "author": "Frank Lloyd Wright"
+  },
+  {
+    "phrase": "Conformity is the jailer of freedom and the enemy of growth.",
+    "author": "John F. Kennedy"
+  },
+  {
+    "phrase": "Being a leader is like being a lady: if you have to prove it, then you are not.",
+    "author": "Margaret Thatcher"
+  },
+  {
+    "phrase": "Great visionaries are important; great managers are essential.",
+    "author": "Tom Peters"
+  },
+  {
+    "phrase": "Leadership is the ability to take initiatives in situations of planning, organizing action, and sparking collaboration.",
+    "author": "Maria Ap. Ferreira de Aguiar"
+  },
+  {
+    "phrase": "The man who cannot smile should not open a business.",
+    "author": "Chinese Proverb"
+  },
+  {
+    "phrase": "Whenever a man begins to aspire to high office, his conduct begins to be corrupted.",
+    "author": "Thomas Jefferson"
+  },
+  {
+    "phrase": "Looking to the future is seeing the consequences of the present.",
+    "author": "Lucian Rodrigues"
+  },
+  {
+    "phrase": "The decayed merely shows up for work and lets the tide carry them.",
+    "author": "Jack Welch"
+  },
+  {
+    "phrase": "If you can’t stand out for your talent, win by effort.",
+    "author": "Dave Weinbaum"
+  },
+  {
+    "phrase": "All glory comes from the courage to begin.",
+    "author": "Eugene F. Ware"
+  },
+  {
+    "phrase": "The dangerous thing is not to think big and not succeed; the dangerous thing is to think small and succeed.",
+    "author": "Luís Marins"
+  },
+  {
+    "author": "Abraham Lincoln",
+    "phrase": "Not having friends in government is a fundamental rule for achieving success."
+  },
+  {
+    "author": "Armando Correa Neto",
+    "phrase": "By observing how creatively we solve problems in our personal lives, we can then transfer that skill to the professional field."
+  },
+  {
+    "author": "John Sculley",
+    "phrase": "Simplicity is the ultimate sophistication."
+  },
+  {
+    "author": "Helmut Schmidt",
+    "phrase": "He who wants to reach a distant goal must take many short steps."
+  },
+  {
+    "author": "Claus Muller",
+    "phrase": "When is it necessary to change? Before it becomes necessary."
+  },
+  {
+    "author": "Alfred Adler",
+    "phrase": "The main danger in life is that you may take too many precautions."
+  },
+  {
+    "author": "H. Jackson Brown",
+    "phrase": "Opportunity dances with those who are already on the dance floor."
+  },
+  {
+    "author": "Bertolt Brecht",
+    "phrase": "Always ask each idea: whom do you serve?"
+  },
+  {
+    "author": "Steve Prefontaine",
+    "phrase": "To give less than your best is to sacrifice the gift you were given."
+  },
+  {
+    "author": "Molière",
+    "phrase": "People are alike in their promises. They only differ in their actions."
+  },
+  {
+    "author": "Jeffrey Gitomer",
+    "phrase": "People don’t like to be sold to. But remember, they love to buy."
+  },
+  {
+    "author": "Augusto Branco",
+    "phrase": "Include in your work the goal of serving and doing good to others, and you will know what it is to work with happiness."
+  },
+  {
+    "author": "Flávio Souza",
+    "phrase": "Invite success to be part of your life. Believe in your creative potential, be innovative, train your mind to win, set goals, and above all, fight for your ideals."
+  },
+  {
+    "author": "Eduardo Frederico",
+    "phrase": "Believe in your potential, seek to motivate yourself every day, keep your self-esteem high, and you will achieve great feats in your life."
+  },
+  {
+    "author": "Albert Einstein",
+    "phrase": "If A is success, then A equals X plus Y plus Z. Work is X; Y is leisure; and Z is keeping your mouth shut."
+  },
+  {
+    "author": "Niccolò Machiavelli",
+    "phrase": "Prudent men know how to take advantage of all their actions, even those they are forced to take by necessity."
+  },
+  {
+    "author": "Mahatma Gandhi",
+    "phrase": "Words and actions do not go well together. Look at nature: it works continuously, but in silence."
+  },
+  {
+    "author": "John Ruskin",
+    "phrase": "The greatest reward for our work is not what we are paid for it, but what it transforms us into."
+  },
+  {
+    "author": "Henry Ford",
+    "phrase": "Nothing is difficult if it is divided into small parts."
+  },
+  {
+    "author": "Jufras Menhal",
+    "phrase": "Success is personal and non-transferable. Take time to define what success is for you, then go after it. Simple as that."
+  },
+  {
+    "author": "Jufras Menhal",
+    "phrase": "See the good side of things. Have you stopped to think about what opportunities would be if it weren't for changes?"
+  },
+  {
+    "author": "Plato",
+    "phrase": "Try to move the world. The first step will be to move yourself."
+  },
+  {
+    "author": "Voltaire",
+    "phrase": "Work keeps three great evils away from us: boredom, vice, and necessity!"
+  },
+  {
+    "author": "William Shakespeare",
+    "phrase": "If every year were filled with joyful holidays, having fun would become more boring than working."
+  },
+  {
+    "author": "Paulo Ricardo Santanna",
+    "phrase": "'No pain, no gain' adversities are obstacles that you only need motivation and self-confidence to overcome."
+  },
+  {
+    "author": "Theodore Roosevelt",
+    "phrase": "Never be one of those cold and timid souls who neither know victory nor defeat."
+  },
+  {
+    "author": "Francisco Cândido Xavier",
+    "phrase": "The architect of your afflictions and the destroyer of your opportunities for elevation – is yourself."
+  },
+  {
+    "author": "Elli Brito",
+    "phrase": "If destiny doesn't give you another chance, don't give up, fight for what is yours."
+  },
+  {
+    "author": "Mahatma Gandhi",
+    "phrase": "You never know what results will come from your action. But if you do nothing, there will be no results."
+  },
+  {
+    "author": "Martin Luther King Jr.",
+    "phrase": "If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but keep moving forward anyway."
+  },
+  {
+    "author": "Fred Sá Teles",
+    "phrase": "Believe in whatever you want and believe wholeheartedly. And if necessary, change your mind."
+  },
+  {
+    "author": "Pâmela Rugoni Belin",
+    "phrase": "Never give up and know how to value those who love you; they are the ones who deserve your respect. As for the rest, well, no one ever needed leftovers to be happy."
+  },
+  {
+    "author": "Charles Chaplin",
+    "phrase": "Fight with determination, embrace life with passion, lose with grace, and win with audacity."
+  },
+  {
+    "author": "Ana Meira",
+    "phrase": "Fight knowing that in the end victory always comes, and the greater the struggle, the greater your victory will be."
+  },
+  {
+    "author": "Karine Axer Oliveira e Silva",
+    "phrase": "It is not enough to recognize a mistake. It requires strong action to correct it and perseverance to never repeat it."
+  },
+  {
+    "author": "Mary Kay Ash",
+    "phrase": "One of the secrets of success is to refuse to let temporary adversities defeat us."
+  },
+  {
+    "author": "Steve Jobs",
+    "phrase": "To succeed, you must truly love what you do. Otherwise, considering only the rational side, you will simply give up. This is what happens to most people."
+  },
+  {
+    "author": "Scott Adams",
+    "phrase": "Most successes come from an obstacle or failure. I became a cartoonist because I failed in my goal of becoming a successful executive."
+  },
+  {
+    "author": "George Bernard Shaw",
+    "phrase": "I don't believe in circumstance: successful individuals are those who go out and look for the conditions they desire; and if they don't find them, they create them."
+  },
+  {
+    "author": "Dr. Robert Anthony",
+    "phrase": "You are totally perfect, and your success in life will be directly proportional to your ability to accept this truth about yourself."
+  },
+  {
+    "author": "Arthur Ashe",
+    "phrase": "An important key to success is self-confidence. An important key to self-confidence is preparation."
+  },
+  {
+    "author": "Joseph Sugarman",
+    "phrase": "Every time you lie, even a small harmless lie, there are strong forces pushing you toward failure."
+  },
+  {
+    "author": "William Feather",
+    "phrase": "Success seems to be largely a matter of continuing after others have given up."
+  },
+  {
+    "author": "Henry Kissinger",
+    "phrase": "Success results from a hundred small things done a little better. Failure results from a hundred small things done a little worse."
+  },
+  {
+    "author": "Henry Wadsworth Longfellow",
+    "phrase": "Most people would succeed in small things if they were not so concerned with big ambitions."
+  },
+  {
+    "author": "Eder Prado",
+    "phrase": "Take hits, but never let them shake your essence."
+  }
+]
